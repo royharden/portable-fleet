@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.creds/
+ArchiveManager-creds.txt
+*.key
+*.pem
+*.pfx
+*.p12
+credentials.json
+tokens.json
+.agent-work/
+.agent-registry/
